@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+    color: #fff;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:beige;
+    font-style:italic;
+    background-color: rgb(222,128,60);
+}
+h2{
+    font-style: italic;
+}
+a{
+    color:cadetblue;
+}
+input[type="submit"]{
+    border-radius: 6px;
+    background-color:bisque;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+body{
+    width:100%;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(background.png);
+}
+th{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:burlywood
+}
+table{
+    box-shadow: 10px 10px 10px rgba(231, 225, 190, 0.3);
+}
